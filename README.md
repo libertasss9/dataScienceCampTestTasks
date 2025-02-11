@@ -35,6 +35,7 @@ Programming code in jupyter notebook/colab/etc. containing the following:
 2) Algorithm that executes iterations over rules
 3) Matrix of values after 20 executed steps
 4) (Optionally) visualization of results over iteration process
+
 Task 3
 The probability of outcome ‘H’ (‘Head’) at flipping each of the 5 coins (call
 them m1, m2, m3, m4, m5) with a changed center of gravity equal [0.8, 0.9,
