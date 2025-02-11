@@ -10,6 +10,7 @@ values and calculates the depth of the deepest lake. Considering the
 above example, the response should be 89 which is the depth of the
 lake formed by subsequence [93, 4, 53, 87, 97].
 2) Visualize the values as heights and highlight the deepest lake.
+
 Response format:
 Programming code in jupyter notebook/colab/etc. containing the following:
 1) Generating list of 20 random values,
@@ -19,6 +20,7 @@ Programming code in jupyter notebook/colab/etc. containing the following:
 Task 2
 Consider the matrix of size 20 x 20 filled randomly with binary values 0
 (cell is “dead”) or 1 (cell is “alive”).
+
 1) Develop the algorithm that accepts the specified binary array of size
 20x20 and iterates the steps where each step executes the following
 rules:
@@ -29,6 +31,7 @@ rules:
 "overpopulation";
 ● if a dead cell has exactly three living neighbors, it comes to life.
 2) (Optionally) visualize the process of execution steps.
+
 Response format:
 Programming code in jupyter notebook/colab/etc. containing the following:
 1) Generating the matrix of size 20x20 with binary random values
@@ -52,6 +55,7 @@ compared to initial 0.2 probability for each coin.
 Therefore, the probability to flip ‘H’ in the next test now equals to ~ 0.69.
 Similarly, after the evidence of ‘T’ in the next test, you need to re-compute
 the probability of flipping ‘H’ in the third flip, etc.
+
 Response format:
 ● list of probabilities to the nearest hundredth [0.69,?,? ,?,?,?,?,?,?]
 (replace ‘?’ with the appropriate values)
